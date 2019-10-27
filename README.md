@@ -3,10 +3,10 @@ SD Hacks 2019
 
 ## Purpose 
 Which UC Campus is best at recycling? 
-Smart Recycling's goal is to embed various sensors within all major campus  
+SmartRecycling's goal is to embed various sensors within all major campus  
 recycling bins. These sensors include motion, light, and ultrasound to determine 
 the rate at which they are filled. A dynamic web server will incorporate this 
-data into realtime analysis, and feature a leaderboard for comparing rates 
+data into realtime analysis and feature a leaderboard for comparing rates 
 between all the UC campuses. 
 
 ## Upcoming Features for Version 2.0
