@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> Home Page </title>
+        <link type="text/css" rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1> Welcome to Smart Recycling! </h1>
+        <form action="/insertData" method="POST">
+            <p>View Recycling Data by UC Campus</p>
+            <input type="text" name="flavor"/>
+            <input type="submit" value="insert"/>
+        </form>
+
+        <form action="/count" method="GET">
+            <p>Realtime Analysis</p>
+            <input type="text" name="flavor" />
+            <input type="submit" value="search" />
+        </form>
+
+        <form action="/View UC Leaderboard" method="GET">
+            <p>Overall Recycling Grade</p>
+            <input type="submit" value="View UC Leaderboard"/>
+        </form>
+    </body>
+</html>
