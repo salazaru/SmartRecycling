@@ -1,9 +1,10 @@
-# SmartRecycling
+# yourTA
 SD Hacks 2019 
+[yourTA.online](http://yourta.online) 
 
 ## Purpose 
 Which UC Campus is best at recycling? 
-SmartRecycling's goal is to embed various sensors within all major campus  
+yourTA's goal is to embed various sensors within all major campus  
 recycling bins. These sensors include motion, light, and ultrasound to determine 
 the rate at which they are filled. A dynamic web server will incorporate this 
 data into realtime analysis and feature a leaderboard for comparing rates 
