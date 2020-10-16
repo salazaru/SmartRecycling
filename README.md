@@ -1,6 +1,6 @@
 # yourTA
 SD Hacks 2019  
-[yourTA.us.openode.io](https://yourta.us.openode.io/)  
+[yourta.online](http://yourta.online)  
   
 [What is yourTA?](https://docs.google.com/presentation/d/12fftA2_pUVtz-WXpkOsAtpKx0H5ERC8a7qAePh-xvyU/edit?usp=sharing)
 
