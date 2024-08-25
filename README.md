@@ -6,11 +6,11 @@ SD Hacks 2019
 
 ## Purpose 
 Which UC Campus is best at recycling? 
-yourTA's goal is to embed various sensors within all major campus  
-recycling bins. These sensors include motion, light, and ultrasound to determine 
-the rate at which they are filled. A dynamic web server will incorporate this 
-data into realtime analysis and feature a leaderboard for comparing rates 
-between all the UC campuses. 
+yourTA's goal is to embed various sensors within all major campus recycling bins.
+These sensors include photoresistors and ultrasonic to determine when a new item 
+has entered a bin and that a new capture needs to be taken. A dynamic web server 
+will incorporate this data into realtime analysis and feature a leaderboard for 
+comparing recycling efficiency among  all the UC campuses.
 
 ## Upcoming Features for Version 2.0
 Instead of focusing on the rate at which recycling bins are filled, photo 
