@@ -7,10 +7,10 @@ SD Hacks 2019
 ## Purpose 
 Which UC Campus is best at recycling? 
 yourTA's goal is to embed various sensors within all major campus recycling bins.
-These sensors include passive infrared (PIR) and ultrasonic to determine when a 
-new item has entered a bin and that a new capture needs to be taken. A dynamic 
-web server will incorporate this data into realtime analysis and feature a 
-leaderboard for comparing recycling efficiency among the ten UC campuses.
+These sensors include passive infrared (PIR), photoresistors, and ultrasonic to 
+determine when a new item has entered a bin and that a new capture needs to be 
+taken. A dynamic web server will incorporate this data into realtime analysis and 
+feature a leaderboard for comparing recycling efficiency among the ten UC campuses.
 
 ## Upcoming Features for Version 2.0
 Instead of focusing on the rate at which recycling bins are filled, photo 
